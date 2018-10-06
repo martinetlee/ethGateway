@@ -1,0 +1,14 @@
+{
+  "contract_name": "ProofOfExistence",
+  "abi": [
+    {
+      "inputs": [],
+      "payable": false,
+      "type": "constructor"
+    }
+  ],
+  "unlinked_binary": "0x60606040523415600e57600080fd5b5b5b5b603680601e6000396000f30060606040525b600080fd00a165627a7a72305820a059583b4937e10e2c494e38c728881f251a8430e12aeab738bb2518db615d340029",
+  "networks": {},
+  "schema_version": "0.0.5",
+  "updated_at": 1511533642000
+}
